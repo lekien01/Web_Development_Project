@@ -1,0 +1,10 @@
+.container {
+    background-color: black;   
+height: 1000x;
+}
+
+
+.pics {
+    border: 10px solid white;
+    width: fit-content;
+}
